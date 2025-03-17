@@ -39,12 +39,4 @@ Atualmente, estou me dedicando ao aprendizado de tecnologias como HTML5, CSS3, J
 
 - **Eduspace**: Plataforma de agendamento de salas para o **Colégio Estadual de Aplicação Anísio Teixeira**. Desenvolvi o front-end e o back-end utilizando **PHP**, **HTML**, **CSS**, **JavaScript**, e **MySQL** 💻.
 
-## Como Entrar em Contato 📧
-
-- **GitHub**: [cauaszdev](https://github.com/cauaszdev) 🧑‍💻
-- **LinkedIn**: [Cauã Souza](https://www.linkedin.com/in/cauã-souza-7485ab1a6/) 🔗
-- **E-mail**: cauasdev@gmail.com ✉️
-
----
-
-Obrigado por visitar meu perfil! Estou sempre aberto a aprender mais 📚 e colaborar em novos projetos 🚀
+Obrigado por visitar meu perfil! 🚀
