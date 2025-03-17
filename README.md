@@ -2,7 +2,8 @@
 
 <div>
      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cauaszdev&show_icons=true&theme=dark"/>
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaszdev&hide_progress=true&theme=dark"/>
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaszdev&hide_progress=true&theme=dark&layout=compact)
+"/>
 </div>
 
 <div style="display: inline_block"><br>
