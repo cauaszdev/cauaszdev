@@ -1,8 +1,8 @@
 ## Cauã Souza - Desenvolvedor Web & Estagiário de TI
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-     <img height=200 src="https://github-readme-stats.vercel.app/api?username=cauaszdev&show_icons=true&theme=chartreuse-dark"/>
-     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark"/>
+     <img height=100 src="https://github-readme-stats.vercel.app/api?username=cauaszdev&show_icons=true&theme=chartreuse-dark"/>
+     <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
