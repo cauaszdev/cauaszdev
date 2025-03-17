@@ -1,14 +1,9 @@
-# Cauã Souza - Desenvolvedor Web & Estagiário de TI
+## Cauã Souza - Desenvolvedor Web & Estagiário de TI
 
 <div>
 <img heigth="160em" src="https://github-readme-stats.vercel.app/api?username=cauaszdev&show_icons=true&theme=dark"</>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaszdev&hide_progress=true&theme=dark"</>
 </div>
-
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +19,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
+##
 Olá! Sou Cauã Souza, um estudante de Engenharia da Computação 🎓 e estagiário de TI na Vice-Governadoria da Bahia 🏢. Tenho uma paixão por hardwares ⚙️ e programação 💻, e estou me especializando em desenvolvimento web 🌐.
 
 Atualmente, estou me dedicando ao aprendizado de tecnologias como HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap, JQuery, APIs, e IONIC, com foco em criar soluções práticas e funcionais para o mundo real.
