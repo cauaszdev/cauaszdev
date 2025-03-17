@@ -1,5 +1,7 @@
 # Cauã Souza - Desenvolvedor Web & Estagiário de TI
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauaszdev)](https://github.com/anuraghazra/github-readme-stats)
+
 Olá! Sou Cauã Souza, um estudante de Engenharia da Computação 🎓 e estagiário de TI na Vice-Governadoria da Bahia 🏢. Tenho uma paixão por hardwares ⚙️ e programação 💻, e estou me especializando em desenvolvimento web 🌐.
 
 Atualmente, estou me dedicando ao aprendizado de tecnologias como HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap, JQuery, APIs, e IONIC, com foco em criar soluções práticas e funcionais para o mundo real.
