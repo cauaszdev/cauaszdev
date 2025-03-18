@@ -33,7 +33,7 @@ Atualmente, estou me dedicando ao aprendizado de tecnologias como **HTML5, CSS3,
 ## Habilidades Técnicas 🛠️
 
 - **🌐 Desenvolvimento Web**: HTML5, CSS3  
-- **🖥️ Ferramentas de Desenvolvimento**: Visual Studio Code  
+- **🖥️ Ferramentas de Desenvolvimento**: Visual Studio Code, GitHub  
 
 ## Projetos 🧑‍💻
 
