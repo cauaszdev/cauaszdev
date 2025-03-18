@@ -7,6 +7,8 @@ Olá! Me chamo **Cauã Souza**, um estudante de **Engenharia da Computação** �
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark"/>
 </div>
 
+## Tecnologias na qual tenho um bom manuseio:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,11 +23,6 @@ Olá! Me chamo **Cauã Souza**, um estudante de **Engenharia da Computação** �
   <a href="https://www.linkedin.com/in/cauaszdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://portfoliocauasouza.free.nf/?i=1" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23007ACC?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>  
 </div>
-
-## Habilidades Técnicas 🛠️
-
-- **🌐 Desenvolvimento Web**: HTML5, CSS3  
-- **🖥️ Ferramentas de Desenvolvimento**: Visual Studio Code, GitHub  
 
 ## Projetos 🧑‍💻
 
