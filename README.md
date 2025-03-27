@@ -1,6 +1,6 @@
 ## Cauã Souza - Desenvolvedor Web & Estagiário de TI
 
-Olá! Me chamo **Cauã Souza**, um estudante de **Engenharia da Computação** 🎓 e estagiário de **TI na Vice-Governadoria da Bahia** 🏢. Tenho uma paixão por **hardwares ⚙️ e programação 💻**, e estou me especializando em **desenvolvimento web 🌐**.
+Olá! Me chamo **Cauã Souza**, um estudante de **Engenharia da Computação** 🎓 e estagiário nível técnico de **TI na Vice-Governadoria da Bahia** 🏢. Tenho uma paixão por **hardwares ⚙️ e programação 💻**, e estou me especializando em **desenvolvimento web 🌐**.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cauaszdev&show_icons=true&theme=chartreuse-dark"/>
